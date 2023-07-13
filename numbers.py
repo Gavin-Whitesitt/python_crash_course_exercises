@@ -9,3 +9,4 @@ print(10 - 2)
 favorite_number = 8 
 
 print(f"my favorite number is {favorite_number}")
+
